@@ -12,4 +12,6 @@
 *This should be italic*
 
 ***This should be bold and italic***
+
+[Google](http://www.google.com)
   
