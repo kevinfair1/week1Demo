@@ -18,8 +18,9 @@
 >>nested blockquotes
 
 > ## h1 		block quotes + other things
-why
-does
->
-this work
+
+- this
+- is
+- a
+- bulleted list
 
