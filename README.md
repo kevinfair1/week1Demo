@@ -33,7 +33,7 @@
     1. work?
 
 
-:emoji:  https://gist.github.com/rxaviers/7360908
+:https://gist.github.com/rxaviers/7360908:  https://gist.github.com/rxaviers/7360908
 
 
   
