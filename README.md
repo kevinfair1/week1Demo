@@ -29,5 +29,6 @@
 2. please?
 
 -[] task
+new line
 -[x] task #2
   
