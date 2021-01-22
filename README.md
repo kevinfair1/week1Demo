@@ -31,4 +31,6 @@
 -[] task
 new line
 -[x] task #2
+
+`code` console.log('hi);
   
