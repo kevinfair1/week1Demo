@@ -33,3 +33,7 @@
 - closed nest
 
 `console.log('Week 1 Demo');`
+
+:smiley_cat:
+
+
