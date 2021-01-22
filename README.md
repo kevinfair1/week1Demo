@@ -28,5 +28,6 @@
 1. nest?
 2. please?
 
--[] task   unmarked task
--[x] task #2  marked task
+-[] task
+-[x] task #2
+  
