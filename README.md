@@ -28,5 +28,5 @@
 - is
 - a
 - bulleted list
-    -- nested
-    -- list
+    - nested
+    - list
