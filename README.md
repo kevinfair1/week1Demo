@@ -17,3 +17,7 @@
 
 ![Wolf](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwkOBsplTqCvGuCd0hR3tfkL6zMfF9xuKZg&usqp=CAU)
   
+1. This
+1. is
+1. a
+1. numbered list
