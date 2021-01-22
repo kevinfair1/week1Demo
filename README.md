@@ -23,3 +23,10 @@
 1. numbered list
     1. nested
     1. list
+
+- This
+- is
+- a
+- bulleted list
+    -- nested
+    -- list
