@@ -23,8 +23,9 @@
 - is
 - a
 - bulleted list
--- nested?
--- I hope?
+  - one
+  - two
+  - three
 1. nest?
 2. please?
 
